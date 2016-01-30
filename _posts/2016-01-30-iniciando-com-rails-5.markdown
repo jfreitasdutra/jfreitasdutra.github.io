@@ -19,6 +19,7 @@ Crie um diretório e um Gemfile:
 
 {% highlight bash %}
 mkdir rails5_projects
+cd rails5_projects
 touch Gemfile
 {% endhighlight %}
 
